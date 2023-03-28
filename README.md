@@ -5,4 +5,4 @@ The model code can be found in the PPGAN.ipynb notebok.
 
 The scraper can be found under the scraper folder as scraper.py
 
-Data processing utillities are found under the data processing folder.
+The data processing utillity can be found under the data processing folder as midi_data_proc.py
