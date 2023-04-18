@@ -2,7 +2,9 @@
 An AI system that is capable of automatically generating piano accompaniments given a melody.
 
 The main model code can be found in the PPGAN.ipynb notebok.
-Some secondary testing work and trainign the specific NPitchesUsed model was done in a seperate PPGAN-NpitchesUsed.ipynb notebook
+Some secondary testing work and trainign the specific NPitchesUsed model was done in a seperate PPGAN_NPITCHESUsed.ipynb notebook
+
+Some sample output mp3s can be found in the outputs folder
 
 The scraper can be found under the scraper folder as scraper.py
 
