@@ -1,4 +1,4 @@
-# PPGAN
+# Piano Partner GAN (PPGAN)
 An AI system that is capable of automatically generating piano accompaniments given a melody.
 
 The main model code can be found in the PPGAN.ipynb notebok.
